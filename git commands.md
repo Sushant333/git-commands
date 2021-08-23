@@ -1,7 +1,6 @@
 # git-commands
 
-----------------------------------------------All about git Commands----------------------------------------------
-                                               TOP GITHUB COMMANDS
+                                               GIT COMMANDS
 
 (1)
 
